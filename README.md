@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @grgsumin
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning HTML, CSS & JAVASCRIPT
+- 👀 I’m interested in Gaming, playing guitar and Coding.
 - 💞️ I’m looking to collaborate on frontend project
 - 📫 How to reach me.
 
