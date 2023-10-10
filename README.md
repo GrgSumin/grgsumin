@@ -2,6 +2,7 @@
 - 👀 I’m interested in Gaming, playing guitar and Coding.
 - 💞️ I’m looking to collaborate on frontend project
 - 📫 How to reach me.
+- i am now doing internship and bibek pattur is teaching us
 
 <!---
 grgsumin/grgsumin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
