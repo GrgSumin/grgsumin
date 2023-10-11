@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=21&pause=1000&color=5BD4F7&random=false&width=435&lines=My+name+is+Sumin+Gurung" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=600&size=21&pause=1000&color=5BD4F7&random=false&width=435&lines=%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%82%B9%E3%83%9F%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%B3%E3%81%A7%E3%81%99" alt="Typing SVG" /></a>
+<hr />
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
 <img align="right" alt="slash" width="400" src="https://cdn.dribbble.com/users/1787778/screenshots/3622299/1.gif">
