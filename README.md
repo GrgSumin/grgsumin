@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS**
 
-- 📫 How to reach me **grgsumin666@gmail.com**
+- 📫 How to reach me **grg.sumin.tech@gmail.com**
 
 - ⚡ Fun fact **I love heavy and thrash metal**
 
