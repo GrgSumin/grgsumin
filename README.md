@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my **Internship**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GrgSumin](https://github.com/GrgSumin)
 
