@@ -6,7 +6,6 @@
 <img align="right" alt="slash" width="400" src="https://cdn.dribbble.com/users/1787778/screenshots/3622299/1.gif">
 
 
-- 🔭 I’m currently working on my **Internship**
 
 - 🌱 I’m currently learning **Kotlin**
 
