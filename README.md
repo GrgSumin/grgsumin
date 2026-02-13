@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GrgSumin](https://github.com/GrgSumin)
 
