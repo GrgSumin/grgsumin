@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 “I’m now analizing AI coding agents like Cursor and Claude that can read my project and help build features automatically.”
 
 - 👨‍💻 All of my projects are available at [https://github.com/GrgSumin](https://github.com/GrgSumin)
 
